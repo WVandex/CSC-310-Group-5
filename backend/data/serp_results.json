@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "TransCrimeNet: A Transformer-Based Model for Text-Based Crime ...",
+            "link": "https://arxiv.org/pdf/2311.09529"
+        },
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "Improving text classification with transformers and layer normalization",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666827022000792"
+        },
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "Text Classification with Transformers | by Samuel Ozechi | Medium",
+            "link": "https://samuel-ozechi.medium.com/text-classification-with-transformers-534137624ff4"
+        },
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "Text classification with transformers in Tensorflow 2: BERT ... - Atheros",
+            "link": "https://learning.atheros.ai/blog/text-classification-with-transformers-in-tensorflow-2"
+        },
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "PDFA New Method of Improving BERT for Text Classification - Springer",
+            "link": "https://link.springer.com/content/pdf/10.1007/978-3-030-36204-1_37.pdf"
+        },
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "Text Classification with Transformers and PyTorch",
+            "link": "https://www.slingacademy.com/article/text-classification-with-transformers-and-pytorch/"
+        },
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "Text classification using BERT - Chalmers",
+            "link": "https://www.cse.chalmers.se/~richajo/nlp2019/l5/Text%20classification%20using%20BERT.html"
+        },
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "BERT Model: A Text Classification Technique in NLP",
+            "link": "https://www.researchgate.net/publication/387464666_BERT_Model_A_Text_Classification_Technique_in_NLP"
+        },
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "Pretrained Transformers for Text Ranking: BERT and Beyond",
+            "link": "https://aclanthology.org/2021.naacl-tutorials.1/"
+        },
+        {
+            "query": "Transformer and BERT networks for forensic text classification",
+            "title": "Enhancing Text Classification with Transformers - Medium",
+            "link": "https://medium.com/@henilsinhrajraj/enhancing-text-classification-with-transformers-1e0be0628eef"
+        }
+    ],
+    "analysis": [
+        {
+            "name": "TRANSFORMER",
+            "count": 7
+        },
+        {
+            "name": "BERT",
+            "count": 5
+        }
+    ]
+}
