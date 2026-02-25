@@ -1,64 +1,76 @@
 {
     "data": [
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "TransCrimeNet: A Transformer-Based Model for Text-Based Crime ...",
-            "link": "https://arxiv.org/pdf/2311.09529"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "Hybrid ST-ResNet and LSTM approach for precise crime hotspot ... - Nature",
+            "link": "https://www.nature.com/articles/s41598-025-24559-7"
         },
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "Improving text classification with transformers and layer normalization",
-            "link": "https://www.sciencedirect.com/science/article/pii/S2666827022000792"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "PDFCrime Prediction and Analysis using CNN & RNN",
+            "link": "https://www.irejournals.com/formatedpaper/1707390.pdf"
         },
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "Text Classification with Transformers | by Samuel Ozechi | Medium",
-            "link": "https://samuel-ozechi.medium.com/text-classification-with-transformers-534137624ff4"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "Designing Time Series Crime Prediction Model using Long Short-Term ...",
+            "link": "https://www.researchgate.net/publication/346441756_Designing_Time_Series_Crime_Prediction_Model_using_Long_Short-Term_Memory_Recurrent_Neural_Network"
         },
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "Text classification with transformers in Tensorflow 2: BERT ... - Atheros",
-            "link": "https://learning.atheros.ai/blog/text-classification-with-transformers-in-tensorflow-2"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "RNN-LSTM: From applications to modeling techniques and beyond ...",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1319157824001575"
         },
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "PDFA New Method of Improving BERT for Text Classification - Springer",
-            "link": "https://link.springer.com/content/pdf/10.1007/978-3-030-36204-1_37.pdf"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "Social media analysis for criminal behavior detection using CNN-RNN ...",
+            "link": "https://ieeexplore.ieee.org/abstract/document/11074566"
         },
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "Text Classification with Transformers and PyTorch",
-            "link": "https://www.slingacademy.com/article/text-classification-with-transformers-and-pytorch/"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "PDFAutomating Time Series Forecasting on Crime Data using RNN-LSTM",
+            "link": "https://thesai.org/Downloads/Volume12No10/Paper_51-Automating_Time_Series_Forecasting_on_Crime_Data.pdf"
         },
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "Text classification using BERT - Chalmers",
-            "link": "https://www.cse.chalmers.se/~richajo/nlp2019/l5/Text%20classification%20using%20BERT.html"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "A Novel Hybrid RNN-ELM Architecture for Crime Classification",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-030-37051-0_98"
         },
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "BERT Model: A Text Classification Technique in NLP",
-            "link": "https://www.researchgate.net/publication/387464666_BERT_Model_A_Text_Classification_Technique_in_NLP"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "Machine learning approach to identity resolution for criminal profiling",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/23742917.2025.2481685"
         },
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "Pretrained Transformers for Text Ranking: BERT and Beyond",
-            "link": "https://aclanthology.org/2021.naacl-tutorials.1/"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "PDFPredictive Crime Analytics Using Deep Learning Approaches for Crime ...",
+            "link": "https://ijirt.org/publishedpaper/IJIRT168800_PAPER.pdf"
         },
         {
-            "query": "Transformer and BERT networks for forensic text classification",
-            "title": "Enhancing Text Classification with Transformers - Medium",
-            "link": "https://medium.com/@henilsinhrajraj/enhancing-text-classification-with-transformers-1e0be0628eef"
+            "query": "RNN and LSTM architectures for criminal profiling research",
+            "title": "Understanding Long Short-Term Memory Recurrent Neural Networks a ...",
+            "link": "https://arxiv.org/pdf/1909.09586"
         }
     ],
     "analysis": [
         {
-            "name": "TRANSFORMER",
-            "count": 7
+            "name": "RNN",
+            "count": 5
         },
         {
-            "name": "BERT",
-            "count": 5
+            "name": "LSTM",
+            "count": 3
+        },
+        {
+            "name": "CNN",
+            "count": 2
+        },
+        {
+            "name": "NEURAL",
+            "count": 1
+        },
+        {
+            "name": "MACHINE",
+            "count": 1
         }
     ]
 }
